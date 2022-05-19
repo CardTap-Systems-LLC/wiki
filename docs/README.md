@@ -1,7 +1,7 @@
 # ControlTap Console
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
 
-![ControlTap Console](/src/assets/controltapconsole1.png)
+![ControlTap Console](/src/assets/controltapconsole1.jpg)
 
 ### Standard (Wired)
 Utilized for most situations that require power or data interuptions. The Standard console interfaces with any ControlTap Module capable of direct (wired) connection.
@@ -27,7 +27,7 @@ Module Control Interface:
 - Voltage: 5VDC
 - Current: 1.5A
 
-![High Voltage Module](/src/assets/controltaphvmodule1.png)
+![High Voltage Module](/src/assets/controltaphvmodule1.jpg)
 
 ## 120V Module - wireless
 Operating in standalone mode, the 120V Module connects to the CardTap Cloud independently of the ControlTap Console it is paired with.
@@ -40,7 +40,7 @@ Module Control Interface:
 - Operating Voltage: 120VAC
 - Average "Enabled" Power Consumption (without external load): 4W
 
-![120V Module](/src/assets/controltap120vmodule1.png)
+![120V Module](/src/assets/controltap120vmodule1.jpg)
 
 ## USB Module - wired
 Operating in standard mode, the USB Module (and integrated hub) allows enable/disable control of up to three USB 2.0 ports, usually associated with a keyboard and mouse. The ControlTap Module, Console, and connected USB devices are powered and communicate to the host computer via a single USB cable.
@@ -53,7 +53,7 @@ Module Control Interface:
 - Wired (4 pin) direct connection to ControlTap Console
 - Powered by USB host
 
-![USB Module](/src/assets/controltapusbmodule1.png)
+![USB Module](/src/assets/controltapusbmodule1.jpg)
 
 ## Indicator Module - wired
 Operating in standard mode, the Indicator Module can display status colors of red, orange, and green for "Standby", "In-use", and "Disabled" ControlTap states. The color-state pairing is user-selectable during setup.
@@ -65,4 +65,4 @@ Other Details:
 - 50mm diameter transparent frosted dome (selectable red, orange, and green illumination when powered)
 - Mounting via panel mount, wall mount (x2 screws), or magnet mount
 
-![Indicator Light Module](/src/assets/controltapindicatormodule1.png)
+![Indicator Light Module](/src/assets/controltapindicatormodule1.jpg)
