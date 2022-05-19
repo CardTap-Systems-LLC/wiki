@@ -1,5 +1,6 @@
 # ControlTap Console
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
+
 ![ControlTap Console](/src/assets/controltapconsole1.png)
 
 ### Standard (Wired)
@@ -25,6 +26,7 @@ Module Control Interface:
 - Powered by ControlTap Console or wall adapter
 - Voltage: 5VDC
 - Current: 1.5A
+
 ![High Voltage Module](/src/assets/controltaphvmodule1.png)
 
 ## 120V Module - wireless
@@ -37,6 +39,7 @@ Module Control Interface:
 - Wireless (WiFi) standalone connection to CardTap Cloud
 - Operating Voltage: 120VAC
 - Average "Enabled" Power Consumption (without external load): 4W
+
 ![120V Module](/src/assets/controltap120vmodule1.png)
 
 ## USB Module - wired
@@ -49,6 +52,7 @@ Module Power Interface:
 Module Control Interface:
 - Wired (4 pin) direct connection to ControlTap Console
 - Powered by USB host
+
 ![USB Module](/src/assets/controltapusbmodule1.png)
 
 ## Indicator Module - wired
@@ -60,4 +64,5 @@ Module Control Interface:
 Other Details:
 - 50mm diameter transparent frosted dome (selectable red, orange, and green illumination when powered)
 - Mounting via panel mount, wall mount (x2 screws), or magnet mount
+
 ![Indicator Light Module](/src/assets/controltapindicatormodule1.png)
