@@ -1,5 +1,6 @@
 # ControlTap Console
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
+![ControlTap Console](/src/assets/controltapconsole1.png)
 
 ### Standard (Wired)
 Utilized for most situations that require power or data interuptions. The Standard console interfaces with any ControlTap Module capable of direct (wired) connection.
@@ -9,10 +10,6 @@ For situations where it does not make sense to create a direct connection to the
 - Equipment power or control systems are located far away from the Console (usually more than 6 feet) or a power/data cable cannot be routed between the equipment controls and the Console due to physical access restrictions.
 - 120V outlet control is required.
 - Equipment does not have a suitable control (power or data) interface to tie into.
-
-## USB Console
-The USB ControlTap console allows on/off control of a group of two USB 2.0 ports, usually associated with keyboard+mouse control. The ControlTap Console (and connected USB devices) are powered and talk to the host computer via a single USB cable.
-**Note:** *At this time, ControlTap USB Hub Console can provide a maximum combined current of 300mA to connected USB devices.*
 
 # ControlTap Module
 
@@ -28,6 +25,7 @@ Module Control Interface:
 - Powered by ControlTap Console or wall adapter
 - Voltage: 5VDC
 - Current: 1.5A
+![High Voltage Module](/src/assets/controltaphvmodule1.png)
 
 ## 120V Module - wireless
 Operating in standalone mode, the 120V Module connects to the CardTap Cloud independently of the ControlTap Console it is paired with.
@@ -39,6 +37,7 @@ Module Control Interface:
 - Wireless (WiFi) standalone connection to CardTap Cloud
 - Operating Voltage: 120VAC
 - Average "Enabled" Power Consumption (without external load): 4W
+![120V Module](/src/assets/controltap120vmodule1.png)
 
 ## USB Module - wired
 Operating in standard mode, the USB Module (and integrated hub) allows enable/disable control of up to three USB 2.0 ports, usually associated with a keyboard and mouse. The ControlTap Module, Console, and connected USB devices are powered and communicate to the host computer via a single USB cable.
@@ -50,6 +49,7 @@ Module Power Interface:
 Module Control Interface:
 - Wired (4 pin) direct connection to ControlTap Console
 - Powered by USB host
+![USB Module](/src/assets/controltapusbmodule1.png)
 
 ## Indicator Module - wired
 Operating in standard mode, the Indicator Module can display status colors of red, orange, and green for "Standby", "In-use", and "Disabled" ControlTap states. The color-state pairing is user-selectable during setup.
@@ -60,3 +60,4 @@ Module Control Interface:
 Other Details:
 - 50mm diameter transparent frosted dome (selectable red, orange, and green illumination when powered)
 - Mounting via panel mount, wall mount (x2 screws), or magnet mount
+![Indicator Light Module](/src/assets/controltapindicatormodule1.png)
