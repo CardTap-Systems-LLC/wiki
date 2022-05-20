@@ -14,6 +14,10 @@ For situations where it does not make sense to create a direct connection to the
 - 120V wall outlet control is required.
 - Equipment does not have a suitable control (power or data) interface to tie into.
 
+
+
+
+
 # ControlTap Module
 
 ## HV Module - wired
