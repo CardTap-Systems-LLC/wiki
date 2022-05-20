@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: ControlTap Hardware
 # description: Description
+github:
+  is_project_page: false
