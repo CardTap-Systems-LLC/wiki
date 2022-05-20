@@ -2,6 +2,7 @@
 # ControlTap Console
 
 <img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapconsole1.png" height="300">
+
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
 
 ### Standard (Wired)
@@ -18,6 +19,7 @@ For situations where it does not make sense to create a direct connection to the
 ## HV Module - wired
 
 <img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltaphvmodule1.png" height="300">
+
 Operating in standard mode, this NO/NC relay module can be integrated in custom power control systems where high voltage or high current requirements exist.
 The user can choose to interface between NO or NC contacts directly at the relay itself.
 Module Power Interface:
@@ -33,6 +35,7 @@ Module Control Interface:
 ## 120V Module - wireless
 
 <img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltap120vmodule1.png" height="300">
+
 Operating in standalone mode, the 120V Module connects to the CardTap Cloud independently of the ControlTap Console it is paired with.
 Module Power Interface:
 - Standard 120VAC, 15A Receptacle
@@ -46,6 +49,7 @@ Module Control Interface:
 ## USB Module - wired
 
 <img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapusbmodule1.png" height="300">
+
 Operating in standard mode, the USB Module (and integrated hub) allows enable/disable control of up to three USB 2.0 ports, usually associated with a keyboard and mouse. The ControlTap Module, Console, and connected USB devices are powered and communicate to the host computer via a single USB cable.
 Module Power Interface:
 - 1x USB-C port (to computer)
@@ -59,6 +63,7 @@ Module Control Interface:
 ## Indicator Module - wired
 
 <img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapindicatormodule1.png" height="300">
+
 Operating in standard mode, the Indicator Module can display status colors of red, orange, and green for "Standby", "In-use", and "Disabled" ControlTap states. The color-state pairing is user-selectable during setup.
 Module Control Interface:
 - Wired (4 pin) direct connection to ControlTap Console
