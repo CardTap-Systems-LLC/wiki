@@ -1,8 +1,7 @@
 # ControlTap Console
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
 
-![](/docs/assets/controltapconsole1.png)
-<img src="/docs/assets/controltapconsole1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapconsole1.png" height="300">
 
 ### Standard (Wired)
 Utilized for most situations that require power or data interuptions. The Standard console interfaces with any ControlTap Module capable of direct (wired) connection.
@@ -28,7 +27,7 @@ Module Control Interface:
 - Voltage: 5VDC
 - Current: 1.5A
 
-<img src="/docs/assets/controltaphvmodule1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltaphvmodule1.png" height="300">
 
 ## 120V Module - wireless
 Operating in standalone mode, the 120V Module connects to the CardTap Cloud independently of the ControlTap Console it is paired with.
@@ -41,7 +40,7 @@ Module Control Interface:
 - Operating Voltage: 120VAC
 - Average "Enabled" Power Consumption (without external load): 4W
 
-<img src="/docs/assets/controltap120vmodule1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltap120vmodule1.png" height="300">
 
 ## USB Module - wired
 Operating in standard mode, the USB Module (and integrated hub) allows enable/disable control of up to three USB 2.0 ports, usually associated with a keyboard and mouse. The ControlTap Module, Console, and connected USB devices are powered and communicate to the host computer via a single USB cable.
@@ -54,7 +53,7 @@ Module Control Interface:
 - Wired (4 pin) direct connection to ControlTap Console
 - Powered by USB host
 
-<img src="/docs/assets/controltapusbmodule1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapusbmodule1.png" height="300">
 
 ## Indicator Module - wired
 Operating in standard mode, the Indicator Module can display status colors of red, orange, and green for "Standby", "In-use", and "Disabled" ControlTap states. The color-state pairing is user-selectable during setup.
@@ -66,4 +65,4 @@ Other Details:
 - 50mm diameter transparent frosted dome (selectable red, orange, and green illumination when powered)
 - Mounting via panel mount, wall mount (x2 screws), or magnet mount
 
-<img src="/docs/assets/controltapindicatormodule1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapindicatormodule1.png" height="300">
