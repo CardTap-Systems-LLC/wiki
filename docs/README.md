@@ -13,10 +13,11 @@ For situations where it does not make sense to create a direct connection to the
 - Equipment power or control systems are located far away from the end-user and ControlTap Console (usually more than 6 feet) or a power/data cable cannot be routed between the equipment controls and the Console due to physical access restrictions.
 - 120V wall outlet control is required.
 - Equipment does not have a suitable control (power or data) interface to tie into.
-
-
-
-
+- 
+<br/>
+<br/>
+<br/>
+<br/>
 
 # ControlTap Module
 
