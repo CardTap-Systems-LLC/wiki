@@ -1,7 +1,7 @@
 # ControlTap Console
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
 
-![ControlTap Console](/src/assets/controltapconsole1.png | height=300)
+![ControlTap Console](/src/assets/controltapconsole1.png)
 
 ### Standard (Wired)
 Utilized for most situations that require power or data interuptions. The Standard console interfaces with any ControlTap Module capable of direct (wired) connection.
