@@ -6,7 +6,7 @@ The ControlTap Console can be used in two different configurations: **Standard**
 ### Standard (Wired)
 Utilized for most situations that require power or data interuptions. The Standard console interfaces with any ControlTap Module capable of direct (wired) connection.
 
-#### Standalone (Wireless)
+### Standalone (Wireless)
 For situations where it does not make sense to create a direct connection to the attached equipment:
 - Equipment power or control systems are located far away from the Console (usually more than 6 feet) or a power/data cable cannot be routed between the equipment controls and the Console due to physical access restrictions.
 - 120V outlet control is required.
