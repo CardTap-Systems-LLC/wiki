@@ -1,6 +1,7 @@
 # ControlTap Console
 The ControlTap Console can be used in two different configurations: **Standard** and **Standalone**.
 
+![](/src/assets/controltapconsole1.png)
 <img src="/src/assets/controltapconsole1.png" height="300">
 
 ### Standard (Wired)
