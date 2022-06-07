@@ -54,6 +54,7 @@ Module Control Interface:
 ## USB Module - wired
 
 <img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapusbmodule1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapusbmodule2.png" height="300">
 
 Operating in standard mode, the USB Module (and integrated hub) allows enable/disable control of up to three USB 2.0 ports, usually associated with a keyboard and mouse. The ControlTap Module, Console, and connected USB devices are powered and communicate to the host computer via a single USB cable.
 Module Power Interface:
@@ -67,7 +68,7 @@ Module Control Interface:
 
 ## Indicator Module - wired
 
-<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapindicatormodule1.png" height="300">
+<img src="https://github.com/CardTap-Systems-LLC/wiki/raw/main/docs/assets/controltapindicator1.png" height="300">
 
 Operating in standard mode, the Indicator Module can display status colors of red, orange, and green for "Standby", "In-use", and "Disabled" ControlTap states. The color-state pairing is user-selectable during setup.
 Module Control Interface:
