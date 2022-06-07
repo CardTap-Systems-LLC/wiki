@@ -15,9 +15,6 @@ For situations where it does not make sense to create a direct connection to the
 - Equipment does not have a suitable control (power or data) interface to tie into.
 
 <br/>
-<br/>
-<br/>
-<br/>
 
 # ControlTap Module
 
